@@ -1,0 +1,13 @@
+/*Common Styles*/
+
+.contactForm{}
+.contactform input[type="text"], .contactform textarea {
+    border: 1px solid #b0afaf;
+    border-radius: 0;
+    width: 100%;
+}
+.contactform input[type="text"] {
+    border: 1px solid #b0afaf;
+    border-radius: 0;
+    width: 100%;
+}
